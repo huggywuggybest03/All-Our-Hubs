@@ -50,5 +50,4 @@ if game.PlaceId == 155615604 then
 
     local Tab3 = Window.NewTab("Credits")
     local Section4 = Tab3.NewSection("monkey_kid03 - All")
-else if game.PlaceId ==  then
 end
