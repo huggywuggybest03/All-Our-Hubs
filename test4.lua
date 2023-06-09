@@ -4,6 +4,8 @@
     - Prison Life
 ]]
 
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("THIS WAS CODED BY monkey_kid03 ON ROBLOX", "All")
+
 if game.PlaceId == 155615604 then
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/slf0Dev/Ocerium_Project/main/Library.lua"))()
     Window = Library.Main("Prison Life Hub","Q") -- change "LeftAlt" to key that you want will hide gui
