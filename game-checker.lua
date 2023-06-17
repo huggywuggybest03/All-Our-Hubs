@@ -1,3 +1,12 @@
+--[[ 
+Supported Games:
+Backpacking,
+Prison Life,
+Redwood Prison,
+Cart Ride But You're A Ball,
+golf obby.
+]]
+
 do
 	local v0 = string.char;
 	local v1 = string.byte;
