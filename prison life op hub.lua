@@ -10,6 +10,8 @@ if game.Players.LocalPlayer.Name == "monkey_kid03TestAcc" then
     print("You are an owner! No message for you!")
 elseif game.Players.LocalPlayer.Name == "monkey_kid03" then
     warn("Welcome owner! Feel free to do whatever.")
+elseif game.Players.LocalPlayer.Name == "ihaterovelol" then
+    print("Thanks for being our friend on roblox and in our discord server! No message for you.")
 else
  game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("THIS WAS CODED BY monkey_kid03 ON ROBLOX | JJSploit on top | Fluxus on top | Delta on top","All");
 end
