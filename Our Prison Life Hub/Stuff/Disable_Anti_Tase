@@ -1,0 +1,3 @@
+			for i,v in pairs(getconnections(workspace:WaitForChild("Remote").tazePlayer.OnClientEvent)) do
+				v:Disable()
+			end
