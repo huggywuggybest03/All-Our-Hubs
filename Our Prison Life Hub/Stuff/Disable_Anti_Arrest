@@ -1,0 +1,3 @@
+			for i,v in pairs(getconnections(workspace:WaitForChild("Remote").arrestPlayer.OnClientEvent)) do
+				v:Disable()
+			end
