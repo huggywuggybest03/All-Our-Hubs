@@ -4,6 +4,7 @@ The our-hub will be soon updated to have new stuff, as you are begging!
 And also we just updated 4 stuff, added libraries.lua to make your own scripts!
 We have a youtube channel based off from this: https://www.youtube.com/channel/UCpWJUc1nF4Fa7P3QdvSnJ3A
 
-/-_ UPDATES _-\ (25/06/23)
-+ dont worry, ill update all these soon.
-+ Updated prison life hub.
+/-_ UPDATES _-\ (13/07/23)
++ Added the YouTube Rayfield UI example
++ Updated README.md on my profile
++ Made a website and a discord server to get in contact with me.
